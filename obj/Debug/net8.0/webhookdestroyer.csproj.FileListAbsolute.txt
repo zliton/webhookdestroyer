@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\bin\Debug\net8.0\webhookdestroyer.exe
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\bin\Debug\net8.0\webhookdestroyer.deps.json
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\bin\Debug\net8.0\webhookdestroyer.runtimeconfig.json
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\bin\Debug\net8.0\webhookdestroyer.dll
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\bin\Debug\net8.0\webhookdestroyer.pdb
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\obj\Debug\net8.0\webhookdestroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\obj\Debug\net8.0\webhookdestroyer.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\obj\Debug\net8.0\webhookdestroyer.AssemblyInfo.cs
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\obj\Debug\net8.0\webhookdestroyer.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\obj\Debug\net8.0\webhookdestroyer.dll
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\obj\Debug\net8.0\refint\webhookdestroyer.dll
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\obj\Debug\net8.0\webhookdestroyer.pdb
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\obj\Debug\net8.0\webhookdestroyer.genruntimeconfig.cache
+C:\Users\PC\source\repos\webhookdestroyer\webhookdestroyer\obj\Debug\net8.0\ref\webhookdestroyer.dll
